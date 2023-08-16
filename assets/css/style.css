@@ -49,3 +49,7 @@ a:hover {
     width: 50%;
     float: left;
 }
+
+#structure {
+    display:block;
+}
