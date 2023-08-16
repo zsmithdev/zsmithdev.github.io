@@ -5,3 +5,8 @@ body {
     text-align: center;
     color: #121212;
 }
+
+#header {
+    background-image: url("kitchen-crew.jpeg");
+    background-size: cover;
+}
