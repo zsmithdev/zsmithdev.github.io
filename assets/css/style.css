@@ -82,8 +82,6 @@ hr {
     text-align: right;
 }
 
-/* Club ethos center image */
-
 #welcome {
     margin: 20px 0;
     text-align: center;
@@ -102,7 +100,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('../images/ethos-center-image.jpg') no-repeat center center;
+    background: url('../images/mel.jpeg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
