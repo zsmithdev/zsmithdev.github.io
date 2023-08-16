@@ -6,11 +6,13 @@ body {
     color: #121212;
 }
 
-#header {
-    background-image: url("kitchen-crew.jpeg");
+#hero-image {
+    width: 100%;
+    height: 50vh;
+    background-image: url(../images/kitchen-crew.jpeg);
+    background-position: 25% 35%;
     background-size: cover;
-    width:100%;
-    height: 40%;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .6);
 }
 
 a {
