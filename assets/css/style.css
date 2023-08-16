@@ -13,12 +13,13 @@ body {
     background-image: url(../images/kitchen-crew.jpeg);
     background-position: 25% 35%;
     background-size: cover;
-    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .2);
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .5);
 }
 
 #hero-image h1 {
     padding: 25vh;
     font-size: 2.5em;
+    color:antiquewhite;
 }
 
 a {
