@@ -17,9 +17,9 @@ body {
 }
 
 #hero-image h1 {
-    padding: 40vh;
+    padding-top: 25vh;
     font-size: 2.5em;
-    color:antiquewhite;
+    color: antiquewhite;
 }
 
 a {
@@ -28,4 +28,24 @@ a {
 
 a:hover {
     color: #CF7C7C;
+}
+
+#intro1 {
+    width: 50%;
+    float: left;
+}
+
+#intro2 {
+    width: 50%;
+    float: left;
+}
+
+#intro3 {
+    width: 50%;
+    float: left;
+}
+
+#intro4 {
+    width: 50%;
+    float: left;
 }
